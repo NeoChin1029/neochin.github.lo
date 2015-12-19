@@ -1,0 +1,17 @@
+h1{
+	color: red;
+}
+.odd{
+	color: yellow;
+}
+.even{
+	color: blue;
+}
+
+#header{
+	background: purple;
+}
+
+#footer{
+	background: red;
+}
