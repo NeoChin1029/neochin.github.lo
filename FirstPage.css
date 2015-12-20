@@ -1,17 +1,17 @@
-h1{
-	color: red;
-}
-.odd{
-	color: yellow;
-}
-.even{
-	color: blue;
+body{
+  background: #fafafa;
+  margin: 0;
 }
 
-#header{
-	background: purple;
+.header{
+	background: #1b39ab;
+	height: 70px;
 }
 
-#footer{
-	background: red;
+.wrapper{
+	height: 700px;
+	width: 960px;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+	background: #fff;
+	margin: 10px auto;
 }
